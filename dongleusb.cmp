@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 19/03/2015 00:15:03
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 19/03/2015 14:24:30
 
 BeginCmp
 TimeStamp = /55018C69;
@@ -32,21 +32,21 @@ BeginCmp
 TimeStamp = /55097661;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = ;
+IdModule  = W-LED-1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /55018AC4;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = ;
+IdModule  = W-LED-1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /55018AD3;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = ;
+IdModule  = W-LED-1206;
 EndCmp
 
 BeginCmp
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = /5506CD75;
 Reference = P1;
 ValeurCmp = USB;
-IdModule  = ;
+IdModule  = W-CONN-USB-A-MULTICOMP-THT;
 EndCmp
 
 BeginCmp
