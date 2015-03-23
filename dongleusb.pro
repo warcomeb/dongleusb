@@ -1,4 +1,4 @@
-update=18/03/2015 13:54:15
+update=23/03/2015 14:13:36
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -50,12 +50,12 @@ LibName30=valves
 LibName31=wkicadlib/warcomeb
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=dongleusb.net
 UseCmpFile=1
-PadDrill=0.600000000000
-PadDrillOvalY=0.600000000000
-PadSizeH=1.500000000000
-PadSizeV=1.500000000000
+PadDrill=1.016000000000
+PadDrillOvalY=1.016000000000
+PadSizeH=1.524000000000
+PadSizeV=1.524000000000
 PcbTextSizeV=1.500000000000
 PcbTextSizeH=1.500000000000
 PcbTextThickness=0.300000000000
@@ -87,3 +87,6 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=wkicadlib/warcomeb
 LibName18=D:/Documenti - m.giammarini/OHIBoards/grovetopping/hardware/ohiboard
+LibName19=D:/Documenti - m.giammarini/Profilo/Desktop/Projects/KicadLibrary/01-Pcb/Connectors
+LibName20=oshw-logo-kicad-copper-10mm
+LibName21=OSHW-logo

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 19/03/2015 14:24:30
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 23/03/2015 13:51:59
 
 BeginCmp
 TimeStamp = /55018C69;
@@ -53,7 +53,7 @@ BeginCmp
 TimeStamp = /5506CFC1;
 Reference = JP1;
 ValeurCmp = ENABLE_VCC;
-IdModule  = ;
+IdModule  = W-CONN-3x1-STRIP;
 EndCmp
 
 BeginCmp
@@ -88,14 +88,14 @@ BeginCmp
 TimeStamp = /550973EC;
 Reference = P5;
 ValeurCmp = ESP8266;
-IdModule  = ;
+IdModule  = W-CONN-4x2-STRIP;
 EndCmp
 
 BeginCmp
 TimeStamp = /55018E08;
 Reference = P6;
 ValeurCmp = UART_TERMINAL;
-IdModule  = ;
+IdModule  = W-CONN-4x1-STRIP;
 EndCmp
 
 BeginCmp
@@ -145,6 +145,13 @@ TimeStamp = /5509771B;
 Reference = R6;
 ValeurCmp = 270;
 IdModule  = W-PASSIVE-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /550B5081;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = W-SWITCH-EVQPE1;
 EndCmp
 
 BeginCmp
